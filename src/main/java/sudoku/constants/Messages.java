@@ -1,4 +1,4 @@
-package constants;
+package sudoku.constants;
 
 public class Messages {
     public static final String GAME_COMPLETE = "CONGRATULATIONS! YOU WON!";
